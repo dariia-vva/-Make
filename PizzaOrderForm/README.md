@@ -11,7 +11,8 @@
 ## Використані технології
 - Google Forms
 - Google Sheets
-- Google Apps Script (для повідомлень)
+- Telegram (для повідомлень)
 
 ## Результати
 Ця автоматизація спрощує процес замовлення та покращує комунікацію з клієнтами щодо їхніх замовлень.
+![Скріншот Telegram Bot](screenshots/pizza-order-scr.jpeg)
