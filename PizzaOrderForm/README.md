@@ -15,4 +15,4 @@
 
 ## Результати
 Ця автоматизація спрощує процес замовлення та покращує комунікацію з клієнтами щодо їхніх замовлень.
-![Скріншот Telegram Bot](screenshots/pizza-order-scr.jpeg)
+![Скріншот Telegram Bot](pizza-order-scr.jpeg)
