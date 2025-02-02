@@ -1,6 +1,6 @@
 # Проект Telegram Bot
 
-![Скріншот Telegram Bot](screenshots/telegram.jpeg)
+![Скріншот Telegram Bot](https://raw.githubusercontent.com/dariia-vva/screenshots/main/telegram.jpeg)
 
 ## Опис
 Цей проект полягає у створенні Telegram бота за допомогою BotFather. Бот надає автоматичні відповіді на часті запитання, такі як як записатися на консультацію і де придбати курс. Додатково, він включає фільтр для ненормативної лексики в чаті.
